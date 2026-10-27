@@ -62,4 +62,4 @@ This is a full-stack web application for a book store built using the MERN stack
 - MongoDB
 - Express.js
 - React.js
-- Node.js
+- Node.js;
